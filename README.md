@@ -2,7 +2,7 @@
 
 This is a social network inspired of [Twitter](https://twitter.com/ "Twitter").  
   
-User will be able to have their own profile and follow their firends.
+Users will be able to have their own profile and follow their firends.
 They will also can publish little messages with text (140 caracters), images (maximum 4) or a video.  
 Each user can fav *(remember the twitter star ?)* messages of other users and they can react to this message with emotes like in [Discord](https://discordapp.com/ "Discord").  
 This is the only thing users can do.
